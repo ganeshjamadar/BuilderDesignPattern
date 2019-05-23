@@ -1,1 +1,6 @@
 F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojResolveAssemblyReference.cache
+F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+F:\Git Repos\Design Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
